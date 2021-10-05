@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning node.js, quantum programming, game development.
 - 📫 Reach me by email or Telegram.
 
+nikitasmelk@gmail.com
+
 <!---
 nikitasmelk/nikitasmelk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
