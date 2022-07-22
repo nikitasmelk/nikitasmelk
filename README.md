@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nikitasmelk
+- 👋 Hi, I’m Nikita
 - 👀 I’m interested in: web development, AI, Quantum Computing, street art, and music.
 - 🌱 I’m currently learning node.js, quantum programming, game development.
 - 📫 Reach me by email or Telegram.
