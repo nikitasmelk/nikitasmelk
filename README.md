@@ -5,7 +5,7 @@
 
 nikitasmelk@gmail.com
 
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{nikitasmelk}/count.svg)
 
 <!---
 nikitasmelk/nikitasmelk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
