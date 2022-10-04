@@ -9,7 +9,7 @@
 ##### BIO
 
 - 🏢 I'm a CS student at **Santa Clara University**
-- ⚙️ I use: `.js`, `.html`, `.css`, `.py`
+- ⚙️ I use: `JavaScript`, `Python`, `C++` `HTML/CSS`
 - ⚡️ I live in the Bay Area
 - 🌱 Currently Learning about **Assembly and Automata**
 - 📫 Reach me: [t.me/nikitasmelk](https://t.me/nikitasmelk)
