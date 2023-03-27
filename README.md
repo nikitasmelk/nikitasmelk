@@ -2,8 +2,8 @@
 
 ##### NOW
 
-- ✨ Looking for **internships** for summer 2022
-- 🎮 Building a 2d horror game
+- ✨ Looking for **internships** for summer 2023
+- 🎮 Building a 3d horror game
 - 😎 Vibing
 
 ##### BIO
