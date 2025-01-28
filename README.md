@@ -2,13 +2,10 @@
 
 ##### NOW
 
-- ✨ Looking for **internships** for summer 2024
 - 🎮 Building a 3d horror game
 - 😎 Vibing
 
 ##### BIO
-
-- 🏢 I'm a CS student at **Santa Clara University**
 - ⚙️ I use: `JavaScript` `Python` `C++` `HTML/CSS` `SuperCollider`
 - ⚡️ I live in the Bay Area
 - 🌱 Currently Learning about **Live audio processing and visualization**
