@@ -2,13 +2,14 @@
 
 ##### NOW
 
-- 🎮 Building a 3d horror game
+- 🎮 Working on 2 games for my studio https://bobrusgames.netlify.app/
+- Writing music and visuals for a concert
 - 😎 Vibing
 
 ##### BIO
-- ⚙️ I use: `JavaScript` `Python` `C++` `HTML/CSS` `SuperCollider`
-- ⚡️ I live in the Bay Area
-- 🌱 Currently Learning about **Live audio processing and visualization**
+- ⚙️ I use: `JavaScript` `Python` `C++` `SuperCollider`
+- ⚡️ I live in the US
+- 🌱 Currently Learning about **Live audio processing and procedural sound visualization**
 - 📫 Reach me: [t.me/nikitasmelk](https://t.me/nikitasmelk)
 - 🌍 Fun fact: I've lived in 7 countires
 
