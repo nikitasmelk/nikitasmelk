@@ -2,14 +2,15 @@
 
 ##### NOW
 
+- Looking for work opportunities in audio programming
 - 🎮 Working on 2 games for my studio https://bobrusgames.netlify.app/
-- Writing music and visuals for a concert
+- Writing music and art for my band
 - 😎 Vibing
 
 ##### BIO
 - ⚙️ I use: `JavaScript` `Python` `C++` `SuperCollider`
 - ⚡️ I live in the US
-- 🌱 Currently Learning about **Live audio processing and procedural sound visualization**
+- 🌱 Currently Learning about **VST Plugin Programming and Advanced DSP**
 - 📫 Reach me: [t.me/nikitasmelk](https://t.me/nikitasmelk)
 - 🌍 Fun fact: I've lived in 7 countires
 
